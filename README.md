@@ -1,28 +1,23 @@
-## UT2kx Reg check  
+## UT2kx Reg check
 
 Version: 1.0  
 Author: Head  
 Operating systems: WIN 95/98/ME/2K/XP/LH
 
+Thank you for downloading my small registry check tool.
 
-Thank you for downloading my small registry check tool ..
+The major task of this tool is to add your CD-Key and UT2kx-path to the windows-registry (after a format c:, if you lost your registry or in other cases). Additional you are able to view/change your CD-Key and your UT2kx-path in a simple and easy way.
 
-The major task of this tool is to add your CD-Key and UT2kx-path to the
-windows-registry (after a format c:, if you lost your registry or in other cases)
-additional you are able to view/change your CD-Key and your UT2kx-path
-in a simple and easy way.
+You can individually add UT2kx UMods, UT2kx links, UT2kx maps, unreal protocol or the UT2kx uninstall information in all languages which ut2kx supports to the registry.
+It's now also possible to switch between the versions of UT, if you install UT2004 you won't be able to use the .ut2 files with UT2003 anymore.
 
-You can individually add UT2kx UMods, UT2kx links, UT2kx maps, unreal protocol or
-the UT2kx uninstall informations in all languages which ut2kx supports to the registry.
-It's now also possible to switch between the versions of UT, if you install UT2004 you
-won't be able to use the .ut2 files with UT2003 anymore.
+Note: UT2kx RegCheck will only change the language of the error messages (for example if you have forgotten to insert your game disc) not the language of the game.
 
-Note: UT2kx regcheck will only change the language of the error messages (for
-example if you have forgotten to insert your game disc) not the language
-of the game.
+If you want to change the UT2kx-path and CD-Key (if you already installed UT2kx) simply click on "allow changes", make your changes and press insert.
 
-If you want to change the UT2kx-path and CD-Key (if you allready installed UT2kx)
-simply click on "allow changes", make your changes and press insert.
+---
+
+![UT2kx Reg check](images/UT2k3Regcheck12.jpg)
 
 ---
 
