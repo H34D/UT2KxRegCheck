@@ -19,6 +19,8 @@ If you want to change the UT2kx-path and CD-Key (if you already installed UT2kx)
 
 ![UT2kx Reg check](images/UT2k3Regcheck12.jpg)
 
+### Download: [UT2kx Reg check](https://www.utzone.de/forum/downloads.php?do=file&id=3465)
+
 ---
 
 ## Changelog
